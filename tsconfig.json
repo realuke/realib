@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "ES2020",
+        "moduleResolution": "node",
+        "target": "ES2021",
+        "lib": ["ES2021", "DOM"],
+        "allowSyntheticDefaultImports": true,
+        "noImplicitAny": true,
+        "preserveConstEnums": true,
+        "sourceMap": false,
+        "outDir": "jsc",
+        "allowJs": true
+    },
+    "include": [
+        "tsc"
+    ]
+}
