@@ -6,9 +6,7 @@
     "typescript": "^5.1.6"
   },
   "type": "module",
-  "scripts": {
-    "build": "node build.js"
-  },
+ 
   "name": "realib",
   "version": "0.1.0-beta",
   "description": "mcbe script api library test",
