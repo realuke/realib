@@ -3,9 +3,9 @@ Minecraft Bedrock Script API library.
 Made by realuke
 
 
-# Features
+# Features(working on beta)
  ### Database
- ### Inventory % Item Utils
+ ### Inventory & Item Utils
  ### Form UI Manager
  ### Team System
 
@@ -20,13 +20,15 @@ Made by realuke
   `npm i realib`
   
   `npx realib-install`
-  
-  When you finished install, You can check the library is working through importing the class.
 
-  you can check the version list of the library by enter the next command:
+  Continue the installation in the terminal.
+  When you finished install, You can find the library folder in your script folder.
+
+  - you can check the version list of the library by enter the next command:
 
   `npm v realib`
 
- > ### > by downloading library file
+ > ### by downloading library file
   Download library file in the relaese tab.
-  Unzip the file, and move it to the script folder you are working on.
+
+  Then unzip the file, and move it to the script folder you are working on.
